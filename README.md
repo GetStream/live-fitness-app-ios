@@ -1,4 +1,4 @@
-# 💬 Live Fitness for iOS with Stream Chat and Dolby.io  [![](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FGetStream%2Ftwitch-example-ios)](https://twitter.com/intent/tweet?text=Want%20to%20build%20a%20telehealth%20live%20fitness%20app%20for%20iOS%20with%20video%20and%20chat%3F%20Learn%20how%3A&url=https%3A%2F%2Fgithub.com%2FGetStream%2Flive-fitness-app-ios)
+# 💬 Live Fitness for iOS with Stream Chat and Dolby.io  [![](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FGetStream%2Flive-fitness-app-ios)](https://twitter.com/intent/tweet?text=Want%20to%20build%20a%20telehealth%20live%20fitness%20app%20for%20iOS%20with%20video%20and%20chat%3F%20Learn%20how%3A&url=https%3A%2F%2Fgithub.com%2FGetStream%2Flive-fitness-app-ios)
 
 <img align="right" src="https://i.imgur.com/Kx3z3Yy.png" width="50%" />
 
@@ -16,7 +16,7 @@ This repository contains the completed Xcode project following the [How to Build
 
 ### Configuration
 
-You should place your [Stream Chat](https://getstream.io/chat) and [Dolby.io](https://dolby.io) credentials in [`AppDelegate.swift`](VirtualClassroom/AppDelegate.swift#L18-L20).
+You should place your [Stream Chat](https://getstream.io/chat) and [Dolby.io](https://dolby.io) credentials in [`AppDelegate.swift`](LiveFitnessApp/LiveFitnessApp/AppDelegate.swift#L18-L20).
 
 ### Dependencies
 
